@@ -1,16 +1,13 @@
-### Hi there 👋
+### Thanks for swinging by!
 
-<!--
-**kenjdavidson/kenjdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name is Ken, and I'm a developer from Ontario, Canada.  I'm also a father and husband - which has caused my personal project development time to decreased in the last couple years - but I do my best to keep major bugs on public projects resolved.  If you'd like to get a better idea of my employment history, please check out my [Linked In](https://linkedin.com/in/kenjdavidson) profile.
 
-Here are some ideas to get you started:
+A couple of my primary projects are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### kenjdavidson.github.com
+
+My personal site/blog made with [Gatsby](https://www.gatsbyjs.org/).
+
+#### React Native Bluetooth Classic
+
+Bluetooth classic/serial module for use with Android and IOS (External Accessory).
