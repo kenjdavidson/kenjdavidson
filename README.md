@@ -4,7 +4,7 @@ Hey, I'm Ken - a developer from Ontario, Canada.  I'm primarily a Java developer
 
 ### Current Role
 
-Senior Java (AngularJS) developer @ (Standardbred Canada)[https://www.standardbredcanada.ca].
+Senior Java (AngularJS) developer @ [Standardbred Canada](https://www.standardbredcanada.ca).
 
 ### Personal Projects
 
@@ -16,4 +16,4 @@ My personal site/blog made with [Gatsby](https://www.gatsbyjs.org/).
 
 #### [React Native Bluetooth Classic](https://kenjdavidson.com/react-native-bluetooth-classic)
 
-Bluetooth classic/serial module for use with Android and IOS (External Accessory).   Initially reworked from (react-native-bluetooth-serial)[https://github.com/rusel1989/react-native-bluetooth-serial] to allow for External Accessory on IOS For my company's mobile app - but since then it's taken off and kept me pretty busy after hours.
+Bluetooth classic/serial module for use with Android and IOS (External Accessory).   Initially reworked from [react-native-bluetooth-serial](https://github.com/rusel1989/react-native-bluetooth-serial) to allow for External Accessory on IOS For my company's mobile app - but since then it's taken off and kept me pretty busy after hours.
