@@ -18,6 +18,6 @@ My personal site/blog made with [Gatsby](https://www.gatsbyjs.org/).
 
 Bluetooth classic/serial module for use with Android and IOS (External Accessory).   Initially reworked from [react-native-bluetooth-serial](https://github.com/rusel1989/react-native-bluetooth-serial) to allow for External Accessory on IOS For my company's mobile app - but since then it's taken off and kept me pretty busy after hours.
 
-#### [Stake Overflow](https://stackoverflow.com/users/4196620/kendavidson)
+#### [Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)
 
 I've been attempting to get more inolved on Stack.  On top of being able to assist others with their issues, it's a great platform for continuing my own development journey with a lot of languages and frameworks.   Try not to down vote me too much!
