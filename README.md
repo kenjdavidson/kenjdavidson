@@ -12,7 +12,7 @@ A few of my primary personal projects are:
 
 #### [kenjdavidson.github.com](https://kenjdavidson.com)
 
-My personal site/blog made with [Gatsby](https://www.gatsbyjs.org/).
+My personal site/blog made with [Gatsby](https://www.gatsbyjs.org/).   I'm not the biggest blogger - I tend to write in waves - but I had fun learning Gatsby (among other things) while converting my site from Wordpress.
 
 #### [React Native Bluetooth Classic](https://kenjdavidson.com/react-native-bluetooth-classic)
 
