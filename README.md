@@ -20,4 +20,4 @@ Bluetooth classic/serial module for use with Android and IOS (External Accessory
 
 #### [Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)
 
-I've been attempting to get more inolved on Stack.  On top of being able to assist others with their issues, it's a great platform for continuing my own development journey with a lot of languages and frameworks.   Try not to down vote me too much!
+I've been attempting to get more involved on Stack (although I'm not sure how I feel about it in general).  On top of being able to assist others with their issues, it's a great platform for continuing my own development journey with a lot of languages and frameworks.
