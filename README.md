@@ -4,7 +4,7 @@ Hey, I'm Ken - a developer from Ontario, Canada.  I'm primarily a Java developer
 
 ### Current Role
 
-Senior Java (AngularJS) developer @ [Standardbred Canada](https://www.standardbredcanada.ca).
+Senior Software Engineer @ [Guidewire](https://www.guidewire.com).
 
 ### Personal Projects
 
