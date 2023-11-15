@@ -32,6 +32,7 @@ I've been attempting to get more involved on Stack (although I'm not sure how I 
 
 ### Support
 
-Kind of seems like begging, but if you've found anything I've contributed too interesting or helpful, I'm always accepting of a little something extra:
+I know a bunch of companies are now using the Bluetooth Classic library, and I'm super stoked about it!   Any bit of appreciation helps:
+
 - [Github Sponsor](https://github.com/sponsors/kenjdavidson)
 - [Paypal Donations](https://paypal.me/kennethjdavidson)
