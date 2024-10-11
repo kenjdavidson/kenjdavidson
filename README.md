@@ -22,7 +22,7 @@ Attempting to make my (and others) commissioners life a little easy with regards
 - Custom draft/keeper settings
 - Automated team management
 
-#### [kenjdavidson.github.com](https://kenjdavidson.com)
+#### [Personal Site/Writing](https://kenjdavidson.com)
 
 I hate blogging, but I keep attempting to keep this going every now and then.  As of 2024 I'm getting closer to just scrapping the writing portion of the site and replacing it with contact and project lists.
 
