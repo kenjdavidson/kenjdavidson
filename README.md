@@ -1,14 +1,14 @@
 ## Thanks for swinging by!
 
-Hey, I'm Ken - a developer from Ontario, Canada.  I'm primarily a Java developer, who has been getting more involved with Angular and React (& React Native).  If you'd like to get a better idea of my employment history, please check out my [Linked In](https://linkedin.com/in/kenjdavidson) profile.
+Hey, I'm Ken; primarily a Java/Kotlin developer with experience using and playing around with React/native, Angular.  I usually have a few projects on the go through the winter months, playing with different frameworks (Unity) and languages (C#, Python); wish me luck!  I tend to keep my [Linked In](https://linkedin.com/in/kenjdavidson) profile up to date if you're interested a little more professional history.
 
 ### Current Role
 
 Senior Software Engineer @ [Guidewire](https://www.guidewire.com).
 
-### Personal Projects
+### Spare Time Fun
 
-I've generally always got a few projects on the go, these are the most notable things I'm attempting to keep up to date:
+Or should I say "fun"...
 
 #### [React Native Bluetooth Classic](https://kenjdavidson.com/react-native-bluetooth-classic)
 
@@ -24,7 +24,7 @@ Attempting to make my (and others) commissioners life a little easy with regards
 
 #### [kenjdavidson.github.com](https://kenjdavidson.com)
 
-Although I'm not the biggest blogger, I do try to document anything interesting that I've recently worked on (or resolved).  I try not to duplicate topics that are already well documented around the web - there are far better authors than I spending far more time than I.
+I hate blogging, but I keep attempting to keep this going every now and then.  As of 2024 I'm getting closer to just scrapping the writing portion of the site and replacing it with contact and project lists.
 
 #### [Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)
 
@@ -32,7 +32,7 @@ I've been attempting to get more involved on Stack (although I'm not sure how I 
 
 ### Support
 
-I know a bunch of companies are now using the Bluetooth Classic library, and I'm super stoked about it!   Any bit of appreciation helps:
+If you've come across something I've done which has helped in your day to day life, those companies using the React Native Bluetooth Classic library come to mind, feel free to hook a brother up with a coffee or beer!!!  Never required but would be greatly appreciated.
 
 - [Github Sponsor](https://github.com/sponsors/kenjdavidson)
 - [Paypal Donations](https://paypal.me/kennethjdavidson)
