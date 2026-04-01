@@ -1,11 +1,11 @@
 # Hi there, I'm Ken! 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf95ecbe-c406-4662-a7c9-a01d43bd985a" width="600" alt="Ken's Tech Avatar">
+  <img src="assets/development-journey.png" width="600" alt="Ken's Tech Avatar">
 </p>
 
 ### 👨‍💻 Senior Software Engineer @ Guidewire
-*Building robust systems by day, tinkering with personal projects by night.*
+*Building robust systems by day; golfing, parenting and personal projecting by night!*
 
 ---
 
@@ -14,11 +14,11 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (more a pipe dream than complete stack)
 
 ---
 
-### 🧪 Current "Spare Time" Experiments
+### 🧪 "Spare Time" Experiments
 
 * **[React Native Bluetooth Classic](https://github.com/kenjdavidson/react-native-bluetooth-classic)** — *Maintaining a bridge between mobile apps and the real world (Android / iOS External Accessory).*
 * **[GSPro SLX Proxy](https://github.com/kenjdavidson/gspro-slx-proxy)** — *Proxy connection and communication between SLX Connect and GSPro, because why not bring software engineering to the golf course.*
