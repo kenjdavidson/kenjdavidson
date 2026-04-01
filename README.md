@@ -1,38 +1,44 @@
-## Thanks for swinging by!
+# Hi there, I'm Ken! 👋
 
-Hey, I'm Ken; primarily a Java/Kotlin developer with experience using and playing around with React/native, Angular.  I usually have a few projects on the go through the winter months, playing with different frameworks (Unity) and languages (C#, Python); wish me luck!  I tend to keep my [Linked In](https://linkedin.com/in/kenjdavidson) profile up to date if you're interested a little more professional history.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf95ecbe-c406-4662-a7c9-a01d43bd985a" width="600" alt="Ken's Tech Avatar">
+</p>
 
-### Current Role
+### 👨‍💻 Senior Software Engineer @ Guidewire
+*Building robust systems by day, tinkering with personal projects by night.*
 
-Senior Software Engineer @ [Guidewire](https://www.guidewire.com).
+---
 
-### Spare Time Fun
+### 🚀 The Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Or should I say "fun"...
+---
 
-#### [React Native Bluetooth Classic](https://kenjdavidson.com/react-native-bluetooth-classic)
+### 🧪 Current "Spare Time" Experiments
 
-Bluetooth classic/serial module for use with Android and IOS (External Accessory).  Unfortuntely I haven't had the time I used to committed to this project, but I still do my best to:
-- Assist with open issues
-- Create/Accept pull requests from some wonderful contributers
+* **[React Native Bluetooth Classic](https://github.com/kenjdavidson/react-native-bluetooth-classic)** — *Maintaining a bridge between mobile apps and the real world (Android / iOS External Accessory).*
+* **[GSPro SLX Proxy](https://github.com/kenjdavidson/gspro-slx-proxy)** — *Proxy connection and communication between SLX Connect and GSPro, because why not bring software engineering to the golf course.*
+* **[Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)** — *Paying it forward (and occasionally venting) on the world's favourite Q&A site.*
 
-#### [Yahoo Fantasy Tools](https://github.com/kenjdavidson/yahoo-fantasy-tools)
+---
 
-Attempting to make my (and others) commissioners life a little easy with regards to:
-- Custom draft/keeper settings
-- Automated team management
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=kenjdavidson&show_icons=true&theme=radical" alt="Ken's GitHub Stats" width="495" />
+</p>
 
-#### [Personal Site/Writing](https://kenjdavidson.com)
+---
 
-I hate blogging, but I keep attempting to keep this going every now and then.  As of 2024 I'm getting closer to just scrapping the writing portion of the site and replacing it with contact and project lists.
+### ☕ Support the Journey
+If my Bluetooth library saved your project, or my SLX and GSPro work let you enjoy golf a little more, feel free to buy me a brew!
 
-#### [Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)
+[<img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors">](https://github.com/sponsors/kenjdavidson)
+[<img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal">](https://paypal.me/kennethjdavidson)
 
-I've been attempting to get more involved on Stack (although I'm not sure how I feel about it in general).  On top of being able to assist others with their issues, it's a great platform for continuing my own development journey with a lot of languages and frameworks.
+---
 
-### Support
-
-If you've come across something I've done which has helped in your day to day life, those companies using the React Native Bluetooth Classic library come to mind, feel free to hook a brother up with a coffee or beer!!!  Never required but would be greatly appreciated.
-
-- [Github Sponsor](https://github.com/sponsors/kenjdavidson)
-- [Paypal Donations](https://paypal.me/kennethjdavidson)
+[LinkedIn](https://linkedin.com/in/kenjdavidson) • [Personal Site](https://kenjdavidson.com) • [Stack Overflow](https://stackoverflow.com/users/4196620/kendavidson)
