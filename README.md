@@ -1,7 +1,6 @@
 # Ken Davidson
 
-### 👨‍💻 Software Engineer
-Building robust systems by day; golfing, parenting, and personal projects by night.
+### 👨‍💻 Software engineering by day; parenting and golfing my way toward retirement at night!
 
 ---
 
@@ -10,7 +9,6 @@ Building robust systems by day; golfing, parenting, and personal projects by nig
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
